@@ -5,9 +5,12 @@ link: http://yoseph9969.github.io
 
 Just for testing my github pages :)
 
-contact: 
+contact:
 
 -facebook:	https://www.facebook.com/yhajon
+
 -twitter:	https://twitter.com/yoseph9969
+
 -yahoo:		yoseph9969@yahoo.com
+
 -gmail:		yoseph9969@gmail.com
