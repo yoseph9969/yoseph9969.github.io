@@ -6,6 +6,6 @@ body {
 	background-origin: border-box;
 	background-repeat: no-repeat;
 	background-size: cover;*/
-	font: 14px Arial, sans-serif;
+	font-family: 'Roboto', Arial, sans-serif;
 	letter-spacing: -1px;
 }
