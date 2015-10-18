@@ -184,3 +184,8 @@ h1, h2, h3, h4, h5, h6 {
       width: 994px;
   }
 }
+@media (min-width: 768px){
+  #flight-search {
+    background: none;
+  }
+}
